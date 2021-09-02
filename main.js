@@ -61,7 +61,7 @@ $('.slider2').owlCarousel({
     },
     300: {
       items: 3,
-      margin: 110,
+      margin: 210,
       loop: true,
     },
     540: {
